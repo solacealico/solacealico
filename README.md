@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @solacealico
-- 🌱 I’m currently learning C# in web developement including AWS services
+- 🌱 I’m currently learning C# in web development including AWS services
 
 <!---
 solacealico/solacealico is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
